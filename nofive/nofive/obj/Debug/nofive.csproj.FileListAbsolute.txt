@@ -1,0 +1,5 @@
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofive\nofive\bin\Debug\nofive.exe.config
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofive\nofive\bin\Debug\nofive.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofive\nofive\bin\Debug\nofive.pdb
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofive\nofive\obj\Debug\nofive.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofive\nofive\obj\Debug\nofive.pdb

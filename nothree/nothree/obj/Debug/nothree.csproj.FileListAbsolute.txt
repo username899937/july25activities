@@ -1,0 +1,5 @@
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nothree\nothree\bin\Debug\nothree.exe.config
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nothree\nothree\bin\Debug\nothree.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nothree\nothree\bin\Debug\nothree.pdb
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nothree\nothree\obj\Debug\nothree.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nothree\nothree\obj\Debug\nothree.pdb

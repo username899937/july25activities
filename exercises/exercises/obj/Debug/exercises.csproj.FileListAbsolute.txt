@@ -1,0 +1,6 @@
+C:\Users\Diane Quiambao\Desktop\Advance Database System\exercises\exercises\bin\Debug\exercises.exe.config
+C:\Users\Diane Quiambao\Desktop\Advance Database System\exercises\exercises\bin\Debug\exercises.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\exercises\exercises\bin\Debug\exercises.pdb
+C:\Users\Diane Quiambao\Desktop\Advance Database System\exercises\exercises\obj\Debug\exercises.csprojResolveAssemblyReference.cache
+C:\Users\Diane Quiambao\Desktop\Advance Database System\exercises\exercises\obj\Debug\exercises.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\exercises\exercises\obj\Debug\exercises.pdb

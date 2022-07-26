@@ -1,0 +1,6 @@
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofour\nofour\bin\Debug\nofour.exe.config
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofour\nofour\bin\Debug\nofour.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofour\nofour\bin\Debug\nofour.pdb
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofour\nofour\obj\Debug\nofour.csprojResolveAssemblyReference.cache
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofour\nofour\obj\Debug\nofour.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\nofour\nofour\obj\Debug\nofour.pdb

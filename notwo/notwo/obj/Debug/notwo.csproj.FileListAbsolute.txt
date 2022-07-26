@@ -1,0 +1,5 @@
+C:\Users\Diane Quiambao\Desktop\Advance Database System\notwo\notwo\bin\Debug\notwo.exe.config
+C:\Users\Diane Quiambao\Desktop\Advance Database System\notwo\notwo\bin\Debug\notwo.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\notwo\notwo\bin\Debug\notwo.pdb
+C:\Users\Diane Quiambao\Desktop\Advance Database System\notwo\notwo\obj\Debug\notwo.exe
+C:\Users\Diane Quiambao\Desktop\Advance Database System\notwo\notwo\obj\Debug\notwo.pdb
